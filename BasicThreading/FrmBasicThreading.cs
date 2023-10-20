@@ -44,6 +44,7 @@ namespace BasicThreading
 
             lblThreadStart.Text = "-End of thread-";
             Console.WriteLine(lblThreadStart.Text);
+            //final
         }        
     }
 }
